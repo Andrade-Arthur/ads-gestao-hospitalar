@@ -30,7 +30,7 @@ Script desenvolvido em Python para automatizar o cadastro de pacientes e gerar e
 ## 📁 Documentação Completa
 O relatório detalhado com Tabelas Verdade, Diagramas UML e as referências utilizadas está disponível abaixo:
 
-👉 **[Abrir Relatório Técnico (PDF)](projeto-integrado-gestao-hospitalar)** 
+👉 **[Abrir Relatório Técnico (PDF)](projeto-integrado-gestao-hospitalar.pdf)** 
 
 ---
 *Projeto desenvolvido por Arthur Andrade - Estudante de ADS.*
